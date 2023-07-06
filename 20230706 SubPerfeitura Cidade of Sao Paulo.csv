@@ -1,0 +1,33 @@
+﻿COD_SUB,NM_SUB,Population,Area,Fill_Color,Loc_Dist
+01,Perus,109218,14,#707a1c,0
+02,Pirituba/Jaraguá,390083,14,#707a1c,1
+03,Freguesia do Ó/Brasilândia,391403,14,#707a1c,0
+04,Casa Verde/Cachoeirinha,313176,14,#707a1c,0
+05,Santana/Tucuruvi,327279,14,#707a1c,0
+06,Jaçanã/Tremembé,255435,14,#707a1c,0
+07,Vila Maria/Vila Guilherme,302899,,#707a1c,0
+08,Lapa,270102,14,#707a1c,0
+09,Sé,373160,14,#707a1c,0
+10,Butantã,345943,16,#79cdaf,0
+11,Pinheiros,270798,16,#79cdaf,0
+12,Vila Mariana,311019,16,#79cdaf,0
+13,Ipiranga,427585,16,#79cdaf,0
+14,Santo Amaro,217280,12,#8a3c1c,0
+15,Jabaquara,214200,12,#8a3c1c,0
+16,Cidade Ademar,370759,12,#8a3c1c,0
+17,Campo Limpo,508607,12,#8a3c1c,0
+18,M'Boi Mirim,523138,12,#8a3c1c,0
+19,Capela do Socorro,561071,12,#8a3c1c,1
+20,Parelheiros,110909,12,#8a3c1c,0
+21,Penha,472247,15,#2144af,0
+22,Ermelino Matarazzo,204315,15,#2144af,0
+23,São Miguel Paulista,377540,15,#2144af,0
+24,Itaim Paulista,358888,15,#2144af,0
+25,Mooca,305436,14,#707a1c,0
+26,Aricanduva/Vila Formosa,266838,16,#79cdaf,0
+27,Itaquera,488327,15,#2144af,1
+28,Guaianases,283162,15,#2144af,0
+29,Vila Prudente,480823,16,#79cdaf,1
+30,São Mateus,422199,15,#2144af,0
+31,Cidade Tiradentes,248762,15,#2144af,0
+32,Sapopemba,296042,16,#79cdaf,0
