@@ -1,13 +1,13 @@
 ﻿COD_SUB,Municípios_CN,NM_SUB,Population,Area,Fill_Color,Loc_Dist
-1,,Perus,109218,14,#707a1c,0
+01,,Perus,109218,14,#707a1c,0
 19,索科鲁,Capela do Socorro,561071,12,#8a3c1c,1
-3,,Freguesia do Ó/Brasilândia,391403,14,#707a1c,0
-4,,Casa Verde/Cachoeirinha,313176,14,#707a1c,0
-5,,Santana/Tucuruvi,327279,14,#707a1c,0
-6,,Jaçanã/Tremembé,255435,14,#707a1c,0
-7,,Vila Maria/Vila Guilherme,302899,14,#707a1c,0
-8,,Lapa,270102,14,#707a1c,0
-9,,Sé,373160,14,#707a1c,0
+03,,Freguesia do Ó/Brasilândia,391403,14,#707a1c,0
+04,,Casa Verde/Cachoeirinha,313176,14,#707a1c,0
+05,,Santana/Tucuruvi,327279,14,#707a1c,0
+06,,Jaçanã/Tremembé,255435,14,#707a1c,0
+07,,Vila Maria/Vila Guilherme,302899,14,#707a1c,0
+08,,Lapa,270102,14,#707a1c,0
+09,,Sé,373160,14,#707a1c,0
 10,,Butantã,345943,16,#D6B4FC,0
 11,,Pinheiros,270798,16,#D6B4FC,0
 12,,Vila Mariana,311019,16,#D6B4FC,0
@@ -17,7 +17,7 @@
 16,,Cidade Ademar,370759,12,#8a3c1c,0
 17,,Campo Limpo,508607,12,#8a3c1c,0
 18,,M'Boi Mirim,523138,12,#8a3c1c,0
-2,皮里图巴,Pirituba/Jaraguá,390083,14,#707a1c,1
+02,皮里图巴,Pirituba/Jaraguá,390083,14,#707a1c,1
 20,,Parelheiros,110909,12,#8a3c1c,0
 21,,Penha,472247,15,#2144af,0
 22,,Ermelino Matarazzo,204315,15,#2144af,0
