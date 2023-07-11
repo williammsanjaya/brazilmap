@@ -1,33 +1,33 @@
 ﻿COD_SUB,Municípios_CN,NM_SUB,Population,Area,Fill_Color,Loc_Dist
-01,,Perus,109218,2,#FF1493,0
-02,皮里图巴,Pirituba/Jaraguá,390083,2,#FF1493,0
-03,巴西兰迪亚,Freguesia do Ó/Brasilândia,391403,2,#FF1493,1
-04,,Casa Verde/Cachoeirinha,313176,2,#FF1493,0
-05,,Santana/Tucuruvi,327279,2,#FF1493,0
-06,,Jaçanã/Tremembé,255435,2,#FF1493,0
-07,,Vila Maria/Vila Guilherme,302899,2,#FF1493,0
-08,,Lapa,270102,3,#00BFFF,0
-09,,Sé,373160,3,#00BFFF,0
-10,,Butantã,345943,3,#00BFFF,0
-11,,Pinheiros,270798,3,#00BFFF,0
-12,,Vila Mariana,311019,3,#00BFFF,0
-13,伊皮兰卡,Ipiranga,427585,3,#00BFFF,1
-14,,Santo Amaro,217280,3,#00BFFF,0
-15,,Jabaquara,214200,3,#00BFFF,0
-16,,Cidade Ademar,370759,3,#00BFFF,0
-17,,Campo Limpo,508607,10,#FF00FF,0
-18,米林,M'Boi Mirim,523138,10,#FF00FF,1
-19,索科鲁,Capela do Socorro,561071,5,#FF5733,0
-20,,Parelheiros,110909,5,#FF5733,0
-21,,Penha,472247,4,#32CD32,0
-22,,Ermelino Matarazzo,204315,4,#32CD32,0
-23,,São Miguel Paulista,377540,4,#32CD32,0
-24,,Itaim Paulista,358888,4,#32CD32,0
-25,,Mooca,305436,4,#32CD32,0
-26,,Aricanduva/Vila Formosa,266838,4,#32CD32,0
-27,伊塔克拉,Itaquera,488327,4,#32CD32,1
-28,,Guaianases,283162,4,#32CD32,0
-29,普鲁登帝镇,Vila Prudente,480823,4,#32CD32,0
-30,,São Mateus,422199,7,#008080,0
-31,,Cidade Tiradentes,248762,4,#32CD32,0
-32,,Sapopemba,296042,7,#008080,0
+1,,Perus,109218,2,green,0
+2,皮里图巴,Pirituba/Jaraguá,390083,2,green,0
+3,巴西兰迪亚,Freguesia do Ó/Brasilândia,391403,2,green,0
+4,,Casa Verde/Cachoeirinha,313176,2,green,0
+5,,Santana/Tucuruvi,327279,2,green,0
+6,,Jaçanã/Tremembé,255435,2,green,0
+7,,Vila Maria/Vila Guilherme,302899,2,green,0
+8,,Lapa,270102,3,blue,0
+9,,Sé,373160,3,blue,0
+10,,Butantã,345943,3,blue,0
+11,,Pinheiros,270798,3,blue,0
+12,,Vila Mariana,311019,3,blue,0
+13,伊皮兰卡,Ipiranga,427585,3,blue,1
+14,,Santo Amaro,217280,3,blue,0
+15,,Jabaquara,214200,3,blue,0
+16,,Cidade Ademar,370759,3,blue,0
+21,,Penha,472247,1,purple,0
+22,,Ermelino Matarazzo,204315,1,purple,0
+23,,São Miguel Paulista,377540,1,purple,0
+24,,Itaim Paulista,358888,1,purple,0
+25,,Mooca,305436,3,blue,0
+26,,Aricanduva/Vila Formosa,266838,6,red,0
+27,伊塔克拉,Itaquera,488327,6,red,0
+28,,Guaianases,283162,1,purple,0
+29,普鲁登帝镇,Vila Prudente,480823,6,red,0
+31,,Cidade Tiradentes,248762,6,red,0
+19,索科鲁,Capela do Socorro,561071,4,pink,0
+20,,Parelheiros,110909,4,pink,0
+30,,São Mateus,422199,6,red,0
+32,,Sapopemba,296042,6,red,0
+17,,Campo Limpo,508607,5,brown,0
+18,米林,M'Boi Mirim,523138,5,brown,0
